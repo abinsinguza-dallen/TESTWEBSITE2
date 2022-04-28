@@ -1,0 +1,270 @@
+body{
+    background-color: rgba(233, 225, 225, 0.979);
+    overflow-x: hidden;
+}
+.pagi{
+    color: rgb(24, 110, 89);
+    font-family: sans-serif;
+}
+.pagi img{
+    margin-bottom: -4%;
+}
+.pagi h4{
+    margin-left: 75px;
+}
+.Firstpage{
+    background-color: white;
+    margin: 20px;
+    border-radius: 5px;
+}
+ .paggee{
+    margin-left: 100px;
+  }
+
+.backg{
+    margin-bottom: -20%;
+}
+.imge img{
+        margin-left: 50%;
+        width: 550px;
+        height: 300px;
+        margin-top: -6%;
+        }
+nav ul li{
+    display: inline-flex;
+    margin-left: 200px;
+    color: black;
+    padding-top: 20px; 
+    margin-top: -2%;  
+}
+nav  button{
+    background-color: rgb(40, 165, 88);
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    
+}
+
+.text button{
+    background-color: rgb(27, 143, 108);
+    border: none;
+    border-radius: 50px;
+    padding: 20px;
+}
+.text h1{
+    margin-top: -20%;
+    
+}
+
+.iicon i{
+    background-color: rgb(56, 141, 85);
+    border-radius: 90px;
+    margin-right: 50%;
+    padding: 18px;
+    margin-left: 20px;
+}
+.iconz i{
+    background-color: rgb(226, 208, 43);
+    border-radius: 90px;
+    margin-right: 50%;
+    padding: 18px;
+    margin-left: 20px;
+}
+.Icons{
+    display: inline-flex;
+    
+}
+.numbers{
+    display: inline-flex;
+    margin-bottom: 60px;
+     padding-left: 50px; 
+    margin-left: 350px;
+    
+     
+}
+.fig1{
+    margin-left: -30%;
+    background-color: white;
+}
+.fig2{
+    padding-left: 80px; 
+    margin-left: 7%;
+    background-color: white;
+}
+.fig3{
+    padding-left: 80px;
+    background-color:white;
+    margin-left: 9%;
+}
+.aaaa i {
+    margin-right: 10px;
+}
+.dddd{
+    margin-left: 50px;
+}
+.bbbb{
+ margin-left: 100px;   
+}
+.mediaicons{
+    display: inline-flex;
+     border-radius: 20px;
+     background-color: white;
+     margin-left:31% ;
+
+}
+.argency{
+    background-color:white;
+    margin: 20px;
+    border-radius:2px ;
+    margin-bottom: -11%; 
+}
+.word{
+    margin-right: 20%;
+    text-align: center;
+    font-family: sans-serif;
+    height: 300px;
+}
+.boxes{
+    display: inline-flex;
+    margin-left: 180px;
+}
+.box2 i{
+    background-color:white;
+    padding: 5%;
+    border-radius: 50px;
+}
+.box1 i{
+    background-color:rgb(70, 109, 216);
+    padding: 5%;
+    border-radius: 50px;
+
+}
+.box3 i{
+    background-color:rgb(247, 231, 9);
+    padding: 5%;
+    border-radius: 50px;
+}
+.box1{
+    padding: 40px;
+    background-color: rgb(235, 241, 240);
+}
+.box2{
+    padding: 40px;
+    background-color: rgb(112, 210, 223); 
+}
+.box3{
+    padding: 40px;
+    background-color: rgb(219, 245, 250); 
+
+}
+.second{
+    margin: 1%;
+    border-radius: 20px;
+    display: inline-flex;
+    margin-bottom: -90%;
+}
+.white{
+     background-color:white; 
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+.sectext{
+     margin-left: 20%;
+     /* margin-bottom: -11%; */
+     background-color: white; 
+     margin-top: 29%;
+     width: 500px;
+  
+}
+.sectext button{
+    border: none;
+    padding: 15px;
+    padding-left: 40px;
+    border-radius: 90px;
+    
+}
+.sectext h1{
+    font-family: sans-serif;
+}
+.sectext p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.ending{
+    text-align: center;
+    margin-top: 2%; 
+    background-color: white;
+    height: 50%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+
+}
+.ending h1{
+    font-family: sans-serif;
+}
+.email{
+    margin-left: 10%;
+    margin-bottom: -10%;
+
+}
+.email input{
+    width: 600px;
+    height: 10vh;
+    background-color: rgb(158, 248, 210);
+    border-radius: 20px;
+    border: none;
+}
+.email button{
+    margin-left: -11%; 
+    width: 80px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(67, 67, 216);
+}
+   
+   .final{
+       background-color: white;
+       margin: 20px;
+       margin-top: 11%;
+   }
+   .image2{
+       margin-top: 26%;
+       margin-left: -5%;
+       background-image: url(/back2.png);
+    
+    
+   }
+   .man2 img{
+       margin-left: 50%;
+       margin-bottom: -35%;
+   }
+   .Last{
+       font-family: sans-serif;
+       margin-left: 20px;
+      height: 400px;
+   }
+   .Last input{
+       background-color: rgb(245, 238, 231);
+       border: none;
+       padding: 1%;
+       border-radius: 10%;
+   }
+   
+   .Last button{
+       background-color: rgb(67, 155, 114);
+       border: none;
+       border-radius: 50px;
+       padding: 2%;
+       margin-right: 100px;
+       margin-top: -10%;
+      
+   }
+   .backs img{
+       margin-bottom: -30%;
+       margin-right: 70%;
+   }
+   .backs{
+      margin-bottom: 1; 
+   }
