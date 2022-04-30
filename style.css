@@ -83,17 +83,18 @@ nav  button{
      
 }
 .fig1{
+    padding-left:80px ;
     margin-left: -30%;
-    background-color: white;
+    background-color: rgb(163, 204, 203);
 }
 .fig2{
     padding-left: 80px; 
     margin-left: 7%;
-    background-color: white;
+    background-color: rgb(182, 203, 205);
 }
 .fig3{
     padding-left: 80px;
-    background-color:white;
+    background-color:rgb(201, 225, 226);
     margin-left: 9%;
 }
 .aaaa i {
